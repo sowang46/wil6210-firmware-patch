@@ -1,6 +1,8 @@
 # Wil6210 Firmware Patch
-Note: this repo is originally forked from [NEXMON for Arc](https://github.com/seemoo-lab/nexmon-arc) but I lost the link to the original repo :-(
-The prerequisite and building process of wil6210 firmware should be the same with nexmon-arc
+Note: this repo is originally forked from [NEXMON for Arc](https://github.com/seemoo-lab/nexmon-arc) but I lost the link to the original repo :-(  
+
+
+The prerequisite and building process of wil6210 firmware should be the same with nexmon-arc.
 
 # Nexmon for ARC
 <img src="logos/talon.png" align="right" width=20% height=20%/>
